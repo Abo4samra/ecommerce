@@ -1,6 +1,6 @@
-# LUXE Ecommerce Store
+# Ecommerce Store
 
-A premium, modern ecommerce store built with Next.js and Vanilla CSS.
+modern ecommerce store built with Next.js and Vanilla CSS.
 
 ## Features
 - Global cart state with persistent storage
